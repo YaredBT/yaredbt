@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yared a dedicated Software Engineering student at AAiT </h1>
-
+<h1 align="center">Hi 👋, I'm Yared, a Software Engineering graduate from Addis Ababa Institute of Technology</h1>
 - 🔭 I’m currently working on **web development**
 
 - 🌱 I’m currently learning Golang
